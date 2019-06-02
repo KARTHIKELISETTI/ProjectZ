@@ -1,0 +1,5 @@
+<div data-sly-use.Text="com.hertz.digital.ccl.core.models.TestTextModel"> </div>
+<div data-sly-test="${Text.abc}">${Text.abc @context='html'}</div>
+${Text.xyz}
+
+<div data-sly-test.isEditMode="${wcmmode.edit}">${isEditMode}</div>
