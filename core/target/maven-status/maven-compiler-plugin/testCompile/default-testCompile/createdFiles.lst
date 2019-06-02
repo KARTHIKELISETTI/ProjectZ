@@ -1,0 +1,5 @@
+com\hertz\digital\ccl\core\models\HelloWorldModelTest.class
+com\hertz\digital\ccl\core\schedulers\SimpleScheduledTaskTest.class
+com\hertz\digital\ccl\core\listeners\SimpleResourceListenerTest.class
+com\hertz\digital\ccl\core\servlets\SimpleServletTest.class
+com\hertz\digital\ccl\core\filters\LoggingFilterTest.class

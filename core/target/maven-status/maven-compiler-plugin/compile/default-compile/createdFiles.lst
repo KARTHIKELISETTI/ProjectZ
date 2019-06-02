@@ -1,0 +1,16 @@
+com\hertz\digital\ccl\core\services\MyServiceConfiguration.class
+com\hertz\digital\ccl\core\beans\Customer.class
+com\hertz\digital\ccl\core\services\MyTestClass.class
+com\hertz\digital\ccl\core\services\impl\MyServiceConfigurationImpl.class
+com\hertz\digital\ccl\core\listeners\SimpleResourceListener.class
+com\hertz\digital\ccl\core\models\TestTitleModel.class
+com\hertz\digital\ccl\core\schedulers\SimpleScheduledTask.class
+com\hertz\digital\ccl\core\models\HelloWorldModel.class
+com\hertz\digital\ccl\core\servlets\CCLServletByPath.class
+com\hertz\digital\ccl\core\filters\LoggingFilter.class
+com\hertz\digital\ccl\core\package-info.class
+com\hertz\digital\ccl\core\schedulers\SimpleScheduledTask$Config.class
+com\hertz\digital\ccl\core\utils\CCLConstants.class
+com\hertz\digital\ccl\core\models\Title.class
+com\hertz\digital\ccl\core\models\TestTextModel.class
+com\hertz\digital\ccl\core\servlets\CCLServletByResourceType.class
