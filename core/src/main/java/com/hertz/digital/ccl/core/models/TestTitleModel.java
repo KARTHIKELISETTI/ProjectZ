@@ -25,7 +25,6 @@ public class TestTitleModel extends WCMUsePojo {
 		resourcetype = testTitle.get("sling:resourceType",String.class);
 		lastmodified = testTitle.get("jcr:lastModified",String.class);
 		Page page = getResource().adaptTo(Page.class);
-		page.get
 		
 	}
 
