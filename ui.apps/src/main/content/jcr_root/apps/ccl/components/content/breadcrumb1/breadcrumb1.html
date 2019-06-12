@@ -1,0 +1,4 @@
+<sly data-sly-use.breadcrumb="com.hertz.digital.ccl.core.services.Breadcrumb"/>
+<div data-sly-list.pageList="${breadcrumb.pagesList}">
+	<a href="${pageList.path @ extension='html'}">${pageList.title}</a>
+</div>
